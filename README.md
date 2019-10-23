@@ -6,14 +6,14 @@ Implement a program that prints out a half-pyramid of a specified height, per th
 
 $ ./mario
 Height: 5
-    ##
-   ###
-  ####
- #####
-######
+    @@
+   @@@
+  @@@@
+ @@@@@
+@@@@@@
 
 $ ./mario
 Height: 3
-  ##
- ###
-####
+  @@
+ @@@
+@@@@
